@@ -15,7 +15,7 @@ A simple React application to manage a list of items. Users can add new items to
 ## Prerequisites
 Ensure you have the following installed on your system:
 1. [Node.js](https://nodejs.org/) (Recommended: v14 or above)
-2. [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/).
+2. [npm](https://www.npmjs.com/).
 
 ---
 
