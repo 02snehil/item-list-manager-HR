@@ -61,4 +61,4 @@ Ensure you have the following installed on your system:
 
 ## Screenshots
  ### Application UI:
-  ![Application Screenshot](../assets/Add_Items_ScreenShot.png)
+  ![Application Screenshot](./src/assets/Add_Items_ScreenShot.png)
